@@ -1,0 +1,6 @@
+Egg,45
+Bread,50
+Oil,3
+Milk,60
+Banana,38
+Cheese,30

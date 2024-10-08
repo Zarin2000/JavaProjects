@@ -1,0 +1,6 @@
+Chief1,Egg,5,Sat Jun 08 23:22:26 BDT 2024
+Chief2,Bread,30,Sat Jun 08 23:43:03 BDT 2024
+Chief3,Bread,20,Sat Jun 08 23:44:39 BDT 2024
+Chief1,Oil,2,Sat Jun 08 23:48:30 BDT 2024
+Chief2,Cheese,5,Sun Jun 09 03:21:54 BDT 2024
+Chief3,Banana,2,Sun Jun 09 12:57:52 BDT 2024

@@ -1,0 +1,5 @@
+Coffee (Qty: 1, Unit Price: 20.0); Fried Rice (Qty: 1, Unit Price: 120.0)|||2|||140.0|||2024-06-09 01:42:54
+Cake (Qty: 1, Unit Price: 50.0); Burger (Qty: 1, Unit Price: 70.0)|||2|||120.0|||2024-06-09 01:44:20
+Pizza (Qty: 1, Unit Price: 80.0); Tea (Qty: 1, Unit Price: 10.0); Pasta (Qty: 1, Unit Price: 80.0)|||3|||170.0|||2024-06-09 03:10:19
+Pizza (Qty: 1, Unit Price: 80.0); Sandwich (Qty: 1, Unit Price: 50.0)|||2|||130.0|||2024-06-09 03:11:23
+CocaCola (Qty: 1, Unit Price: 30.0); Chicken Roll (Qty: 1, Unit Price: 40.0)|||2|||70.0|||2024-06-09 12:57:01
