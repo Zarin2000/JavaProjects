@@ -1,0 +1,1 @@
+confectioneryshop.ConfectioneryShop
